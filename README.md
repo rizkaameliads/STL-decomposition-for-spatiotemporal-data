@@ -27,7 +27,15 @@ The main R-script is in **STL-Decomposition-GRACE.R**. Four primary stages inclu
 5. Converting the decomposed signal into a DataFrame.
 
 ## Output
+Result for: <br />
+_**## View first 5 rows and last 5 rows of data <br />
+head(grace_gsfc) <br />
+tail(grace_gsfc)**_ <br />
+![Alt text](Output/1_GRACE-GSFC_csv.JPG)
 
+Result for: <br />
+`ts_list[1]`<br />
+![Alt text](Output/2_Example of time series object.JPG)
 
 ### Contact
 For suggestions and collaboration, kindly reach me at: [LinkedIn](https://www.linkedin.com/in/rizka-amelia-dwi-safira/) or rizkasafira20@gmail.com.
