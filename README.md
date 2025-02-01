@@ -35,7 +35,7 @@ tail(grace_gsfc)**_ <br />
 
 Result for: <br />
 `ts_list[1]`<br />
-![Alt text](Output/2_Example of time series object.JPG)
+![Alt text](Output/2_Example_of_time_series_object.JPG)
 
 ### Contact
 For suggestions and collaboration, kindly reach me at: [LinkedIn](https://www.linkedin.com/in/rizka-amelia-dwi-safira/) or rizkasafira20@gmail.com.
