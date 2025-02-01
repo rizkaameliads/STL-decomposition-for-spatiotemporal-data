@@ -26,7 +26,8 @@ The main R-script is in **STL-Decomposition-GRACE.R**. Four primary stages inclu
 4. Performing STL for each grid; and
 5. Converting the decomposed signal into a DataFrame.
 
-## Results
+## Output
+
 
 ### Contact
 For suggestions and collaboration, kindly reach me at: [LinkedIn](https://www.linkedin.com/in/rizka-amelia-dwi-safira/) or rizkasafira20@gmail.com.
