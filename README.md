@@ -19,12 +19,14 @@ The data covers the Kalimantan Island of Indonesia and contains four columns:
 4. **lwe_cm** = liquid water equivalent in centimeters, also known as the terrestrial water storage anomaly.
 
 ## R-Script
-The main R-script is in **STL-Decomposition-GRACE.R**. The R-Notebook is also included to give an overview of the results of each code line/block (**file = Notebook-STL-Decomposition-GRACE.html**). Four primary stages included in the code comprise:
+The main R-script is in **STL-Decomposition-GRACE.R**. Four primary stages included in the code comprise:
 1. Library (installation and) preparation;
 2. Calling the CSV data;
 3. Creating a time series object for each grid;
 4. Performing STL for each grid; and
 5. Converting the decomposed signal into a DataFrame.
+
+## Results
 
 ### Contact
 For suggestions and collaboration, kindly reach me at: [LinkedIn](https://www.linkedin.com/in/rizka-amelia-dwi-safira/) or rizkasafira20@gmail.com.
