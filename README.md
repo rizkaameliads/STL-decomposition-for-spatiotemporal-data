@@ -28,14 +28,22 @@ The main R-script is in **STL-Decomposition-GRACE.R**. Four primary stages inclu
 
 ## Output
 Result for: <br />
-_**## View first 5 rows and last 5 rows of data <br />
-head(grace_gsfc) <br />
-tail(grace_gsfc)**_ <br />
+`head(grace_gsfc)` and <br />
+`tail(grace_gsfc)` <br />
 ![Alt text](Output/1_GRACE-GSFC_csv.JPG)
 
 Result for: <br />
 `ts_list[1]`<br />
 ![Alt text](Output/2_Example_of_time_series_object.JPG)
+
+Result for: <br />
+`autoplot(object = stl_list[1],ncol = 1)`<br />
+![Alt text](Output/3_Example_of_decomposed_signal_in_one_grid.png)
+
+Result for: <br />
+`head(grace_gsfc_decomposed)` and <br />
+`tail(grace_gsfc_decomposed)` <br />
+![Alt text](Output/4_Output_of_signal_decomposition_in_DataFrame.JPG)
 
 ### Contact
 For suggestions and collaboration, kindly reach me at: [LinkedIn](https://www.linkedin.com/in/rizka-amelia-dwi-safira/) or rizkasafira20@gmail.com.
