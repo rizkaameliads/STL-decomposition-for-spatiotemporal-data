@@ -8,7 +8,7 @@ The method used to decompose the hydrological data is **Seasonal and Trend decom
 ```math
 X_{tot} = X_{trend} + X_{seasonal} + X_{remainder}
 ```
-
+![Alt text](Output/0_Overview.png) 
 ## About Data
 The main data is provided in a CSV format (**file = GRACE-GSFC_2002.04_2017.06.csv**). The raw data was downloaded from [NASA Goddard Space Flight Center (GSFC)](https://earth.gsfc.nasa.gov/geo/data/grace-mascons) with spatial and temporal resolutions of 0.5 degrees and 1 month, respectively, and in *nc format. The source code to convert *nc data to a data frame refers to [DSSG2023-Groundwater by uwescience](https://github.com/uwescience/DSSG2023-Groundwater/tree/main). The short-term gap in the GRACE GSFC data was already filled using the simple linear interpolation approach.
 
