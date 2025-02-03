@@ -45,5 +45,7 @@ Result for: <br />
 `tail(grace_gsfc_decomposed)` <br />
 ![Alt text](Output/4_Output_of_signal_decomposition_in_DataFrame.JPG)
 
+### Reference
+Hartmann, K., Krois, J., Rudolph, A. (2023): Statistics and Geodata Analysis using R (SOGA-R). Department of Earth Sciences, Freie Universitaet Berlin [Available at: https://www.geo.fu-berlin.de/en/v/soga-r/Advances-statistics/Time-series-analysis/Seasonal-decompositon/Seasonal-and-Trend-decomposition-using-Loess/index.html].
 ### Contact
 For suggestions and collaboration, kindly reach me at: [LinkedIn](https://www.linkedin.com/in/rizka-amelia-dwi-safira/) or rizkasafira20@gmail.com.
