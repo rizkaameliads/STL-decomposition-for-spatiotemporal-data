@@ -1,5 +1,5 @@
 # Seasonal and Trend decomposition using Loess (STL) for Spatio-temporal Data
-
+For full notebook, kindly refer to the attached PDF document.
 ## Overview
 This project conducts signal decomposition on spatiotemporal data, such as hydrological data that varies spatially across grids over a specific period. The decomposition process is applied to terrestrial water storage anomaly (TWSA) data from the GRACE satellite mission. 
 
